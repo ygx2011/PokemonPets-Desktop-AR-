@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opeious.pokemon3dsto.Editor", "opeious.pokemon3dsto.Editor.csproj", "{CBACC450-08A5-407C-053A-0FB5CFF1CB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{89F86E9F-26CA-CFB0-52C6-0CE15D05316C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBACC450-08A5-407C-053A-0FB5CFF1CB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBACC450-08A5-407C-053A-0FB5CFF1CB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBACC450-08A5-407C-053A-0FB5CFF1CB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBACC450-08A5-407C-053A-0FB5CFF1CB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F86E9F-26CA-CFB0-52C6-0CE15D05316C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F86E9F-26CA-CFB0-52C6-0CE15D05316C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F86E9F-26CA-CFB0-52C6-0CE15D05316C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F86E9F-26CA-CFB0-52C6-0CE15D05316C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

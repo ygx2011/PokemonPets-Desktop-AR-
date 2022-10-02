@@ -1,0 +1,7 @@
+简单的教学视频：（用的ARFoundation，同时支持安卓和苹果手机）
+https://www.bilibili.com/video/BV1uv4y1M7hJ/?spm_id_from=333.999.0.0&vd_source=7bb1bac2a4a1baef3ede7f2c7478bb1d
+
+加入宠物跟随后的AR效果：
+https://www.bilibili.com/video/BV1tf4y1f7jK/?spm_id_from=333.999.0.0&vd_source=7bb1bac2a4a1baef3ede7f2c7478bb1d
+
+https://www.bilibili.com/video/BV1MW4y1z73p/?spm_id_from=333.999.0.0&vd_source=7bb1bac2a4a1baef3ede7f2c7478bb1d

@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41173986273d469449db5c10e26d6088, type: 3}
+  m_Name: 3DStoUnitySettings
+  m_EditorClassIdentifier: 
+  chosenFormat: 0
+  modelExport: 0
+  scaleFactor: 0.01
+  spawnModelsIntoScene: 1
+  spawnAtRandomPosition: 1
+  ImporterSettings:
+    StartIndex: 0
+    EndIndex: 0
+    ImportModel: 1
+    ImportTextures: 1
+    ImportMaterials: 1
+    ImportShinyMaterials: 0
+    ApplyMaterials: 1
+    ApplyShinyMaterials: 0
+    ImportFireMaterials: 1
+    SkeletalAnimations: 1
+    FightAnimationsToImport:
+      m_keys:
+      - Idle
+      - Appear
+      - Transform
+      - Release
+      - Dropping
+      - Landing
+      - Release_without_Landing
+      - Mega_Upgraded
+      - Attack
+      - Attack_2
+      - Attack_3
+      - Attack_4
+      - No_Touch_Attack
+      - No_Touch_Attack_2
+      - No_Touch_Attack_3
+      - No_Touch_Attack_4
+      - Be_Attacked
+      - Lost
+      - Empty
+      - Eye_Emotion
+      - Eye_2_Emotion
+      - Eye_3_Emotion
+      - Mouth_Emotion
+      - Mouth_2_Emotion
+      - Mouth_3_Emotion
+      - State
+      - State_2
+      - State_3
+      - State_4
+      m_values: 0101010101010101010101010101010101010101010101010101010101
+    PetAnimationsToImport:
+      m_keys:
+      - Idle
+      - Turn
+      - Look_Back
+      - Look_Back_Happily
+      - Falling Asleep
+      - Sleepy
+      - Sleepy_Awaken
+      - Sleeping
+      - Awaken
+      - Refuse
+      - Thinking
+      - Agree
+      - Happy
+      - Very_Happy
+      - Look_Around
+      - Rub_Eyes
+      - Comfortable
+      - Relax
+      - Sad
+      - Salutate
+      - Happy_2
+      - Angry
+      - Begin_Eating
+      - Eating
+      - Eating_Finished
+      - No_Eating
+      - Empty
+      - Eye_Emotion
+      - Eye_2_Emotion
+      - Eye_3_Emotion
+      - Mouth_Emotion
+      - Mouth_2_Emotion
+      - Mouth_3_Emotion
+      - State
+      - State_2
+      - State_3
+      - State_4
+      m_values: 01010101010101010101010101010101010101010101010101010101010101010101010101
+    MovementAnimationsToImport:
+      m_keys:
+      - Idle
+      - Empty
+      - Walk
+      - Run
+      - Empty_2
+      - Start_Walk
+      - End_Walk
+      - Empty_3
+      - Start_Run
+      - End_Run
+      - Empty_4
+      - Start_Run_2
+      - End_Run_2
+      - Empty_5
+      - Eye_Emotion
+      - Eye_2_Emotion
+      - Eye_3_Emotion
+      - Mouth_Emotion
+      - Mouth_2_Emotion
+      - Mouth_3_Emotion
+      - State
+      - State_2
+      - State_3
+      - State_4
+      m_values: 010101010101010101010101010101010101010101010101
+    MaterialAnimations: 1
+    VisibilityAnimations: 1
+    InterpolateAnimations: 0
+    RenameGeneratedAnimationFiles: 1
+    importPaths:
+    - "Assets \u2044 Bin3DS \u2044 "
+    exportPaths:
+    - "Assets \u2044 Exported \u2044 "
+    ImportPath: Assets/Bin3DS/
+    ExportPath: Assets/Exported/
+    SelectedImportIndex: 0
+    SelectedExportIndex: 0
+  mergedBinariesPreview:
+  - PokemonMergedBinary:
+    - Assets/Bin3DS/Charizard/dec_00064.bin
+    - Assets/Bin3DS/Charizard/dec_00065.bin
+    - Assets/Bin3DS/Charizard/dec_00066.bin
+    - Assets/Bin3DS/Charizard/dec_00067.bin
+    - Assets/Bin3DS/Charizard/dec_00068.bin
+    - Assets/Bin3DS/Charizard/dec_00069.bin
+    - Assets/Bin3DS/Charizard/dec_00070.bin
+    - Assets/Bin3DS/Charizard/dec_00071.bin
+    - Assets/Bin3DS/Charizard/dec_00072.bin
+  customShaderSettings:
+    bodyShader: {fileID: -6465566751694194690, guid: 707e4c837f2b58240a84f53df2eb732e, type: 3}
+    irisShader: {fileID: -6465566751694194690, guid: e06474ae45c337c40975fcdd32084fcc, type: 3}
+    fireCoreShader: {fileID: -6465566751694194690, guid: 60cca36656418e145ac6b1f3076a856f, type: 3}
+    fireStencilShader: {fileID: -6465566751694194690, guid: 254e2c84115878145b2e733cf597a2b1, type: 3}
+    BaseMap: _BaseMap
+    BaseMapTiling: _BaseMapTiling
+    BaseMapOffset: _BaseMapOffset
+    NormalMap: _NormalMap
+    NormalMapTiling: _NormalMapTiling
+    NormalMapOffset: _NormalOffset
+    OcclusionMap: _OcclusionMap
+    OcclusionMapTiling: _OcclusionMapTiling
+    OcclusionMapOffset: _OcclusionMapOffset
+    Constant4Color: _Constant4Color
+    Constant3Color: _Constant3Color
+    Tex0TranslateX: material._BaseMapOffset.x
+    Tex1TranslateX: material._OcclusionMapOffset.x
+    Tex2TranslateX: material._NormalMapOffset.x
+    Tex0TranslateY: material._BaseMapOffset.y
+    Tex1TranslateY: material._OcclusionMapOffset.y
+    Tex2TranslateY: material._NormalMapOffset.y
+  customAnimatorSettings:
+    baseController: {fileID: 0}
+    Fight_Idle: Idle
+    Appear: Appear
+    Transform: Transform
+    Release: Release
+    Dropping: Dropping
+    Landing: Landing
+    Release_without_Landing: Release_without_Landing
+    Mega_Upgraded: Mega_Upgraded
+    Attack: Attack
+    Attack_2: Attack_2
+    Attack_3: Attack_3
+    Attack_4: Attack_4
+    No_Touch_Attack: No_Touch_Attack
+    No_Touch_Attack_2: No_Touch_Attack_2
+    No_Touch_Attack_3: No_Touch_Attack_3
+    No_Touch_Attack_4: No_Touch_Attack_4
+    Be_Attacked: Be_Attacked
+    Lost: Lost
+    Fight_Empty: Empty
+    Fight_Eye_Emotion: Eye_Emotion
+    Fight_Eye_2_Emotion: Eye_2_Emotion
+    Fight_Eye_3_Emotion: Eye_3_Emotion
+    Fight_Mouth_Emotion: Mouth_Emotion
+    Fight_Mouth_2_Emotion: Mouth_2_Emotion
+    Fight_Mouth_3_Emotion: Mouth_3_Emotion
+    Fight_State: State
+    Fight_State_2: State_2
+    Fight_State_3: State_3
+    Fight_State_4: State_4
+    Pet_Idle: Idle
+    Turn: Turn
+    Look_Back: Look_Back
+    Look_Back_Happily: Look_Back_Happily
+    Falling_Asleep: Falling_Asleep
+    Sleepy: Sleepy
+    Sleepy_Awaken: Sleepy_Awaken
+    Sleeping: Sleeping
+    Awaken: Awaken
+    Refuse: Refuse
+    Thinking: Thinking
+    Agree: Agree
+    Happy: Happy
+    Very_Happy: Very_Happy
+    Look_Around: Look_Around
+    Rub_Eyes: Rub_Eyes
+    Comfortable: Comfortable
+    Relax: Relax
+    Sad: Sad
+    Salutate: Salutate
+    Happy_2: Happy_2
+    Angry: Angry
+    Begin_Eating: Begin_Eating
+    Eating: Eating
+    Eating_Finished: Eating_Finished
+    No_Eating: No_Eating
+    Pet_Empty: Empty
+    Pet_Eye_Emotion: Eye_Emotion
+    Pet_Eye_2_Emotion: Eye_2_Emotion
+    Pet_Eye_3_Emotion: Eye_3_Emotion
+    Pet_Mouth_Emotion: Mouth_Emotion
+    Pet_Mouth_2_Emotion: Mouth_2_Emotion
+    Pet_Mouth_3_Emotion: Mouth_3_Emotion
+    Pet_State: State
+    Pet_State_2: State_2
+    Pet_State_3: State_3
+    Pet_State_4: State_4
+    Movement_Idle: Idle
+    Movement_Empty: Empty
+    Walk: Walk
+    Run: Run
+    Empty_2: Empty_2
+    Start_Walk: Start_Walk
+    End_Walk: End_Walk
+    Empty_3: Empty_3
+    Start_Run: Start_Run
+    End_Run: End_Run
+    Empty_4: Empty_4
+    Start_Run_2: Start_Run_2
+    End_Run_2: End_Run_2
+    Empty_5: Empty_5
+    Movement_Eye_Emotion: Eye_Emotion
+    Movement_Eye_2_Emotion: Eye_2_Emotion
+    Movement_Eye_3_Emotion: Eye_3_Emotion
+    Movement_Mouth_Emotion: Mouth_Emotion
+    Movement_Mouth_2_Emotion: Mouth_2_Emotion
+    Movement_Mouth_3_Emotion: Mouth_3_Emotion
+    Movement_State: State
+    Movement_State_2: State_2
+    Movement_State_3: State_3
+    Movement_State_4: State_4

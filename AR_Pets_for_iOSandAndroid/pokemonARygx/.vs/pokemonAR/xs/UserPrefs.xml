@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FC0A3EBF-A541-8F50-514B-A4B2B38F8EDA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/animatorAudio.cs">
+    <Files>
+      <File FileName="Assets/PlacementManager.cs" Line="41" Column="70" />
+      <File FileName="Assets/SpawnManager.cs" Line="32" Column="48" />
+      <File FileName="Assets/PetFlow.cs" Line="94" Column="56" />
+      <File FileName="Assets/pkcStatus.cs" Line="24" Column="6" />
+      <File FileName="Assets/animatorAudio.cs" Line="15" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pokemonAR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="animatorAudio.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="012a12d3-8b02-4d27-a57c-81cb2ee16952" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

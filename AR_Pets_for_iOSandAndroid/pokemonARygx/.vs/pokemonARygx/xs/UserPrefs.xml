@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{406FFE00-0D46-0A2F-6491-7F71375EFEC6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/psyduckStatus.cs">
+    <Files>
+      <File FileName="Assets/PlacementManager.cs" Line="38" Column="1" />
+      <File FileName="Assets/psyduckStatus.cs" Line="14" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pokemonARygx" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="psyduckStatus.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7860ca28-c010-46ad-adad-6c7656ecd756" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
