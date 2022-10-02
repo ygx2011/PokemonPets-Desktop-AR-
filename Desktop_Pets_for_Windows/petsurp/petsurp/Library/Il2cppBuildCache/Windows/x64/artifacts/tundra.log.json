@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}

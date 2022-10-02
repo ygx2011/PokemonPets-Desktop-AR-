@@ -1,0 +1,140 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.24f1c2\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"WindowsDesktop\" --architecture=\"x64\" --configuration=\"Release\" --outputpath=\"E:\\AR_github\\PokemonPets\\PokemonPets-Desktop-AR-\\Desktop_Pets_for_Windows\\petsurp\\petsurp\\Library/Il2cppBuildCache/Windows/x64\\Native\\GameAssembly.dll\" --cachedirectory=\"E:\\AR_github\\PokemonPets\\PokemonPets-Desktop-AR-\\Desktop_Pets_for_Windows\\petsurp\\petsurp\\Assets\\..\\Library/il2cpp_cache\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport\\Variations\\win64_nondevelopment_il2cpp\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed --generatedcppdir=E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Library/Il2cppBuildCache/Windows/x64/il2cppOutput --stats-output-dir=E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Library/Il2cppBuildCache/Windows/x64/il2cppStats",
+      "Inputs": [
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/System.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp/baselib.dll.lib",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "E:/AR_github/PokemonPets/PokemonPets-Desktop-AR-/Desktop_Pets_for_Windows/petsurp/petsurp/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2020.3.24f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
